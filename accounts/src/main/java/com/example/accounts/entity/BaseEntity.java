@@ -1,6 +1,5 @@
 package com.example.accounts.entity;
 
-import com.example.accounts.audit.AuditAwareImpl;
 import jakarta.persistence.Column;
 import jakarta.persistence.EntityListeners;
 import jakarta.persistence.MappedSuperclass;
